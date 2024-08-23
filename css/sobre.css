@@ -49,10 +49,10 @@ figure img	{
 }
 
 .contato__subtitulo	{
-	display:	inline;
+	display: inline;
 }
 .contato__secao	{
-	display:	inline-block;
+	display: inline-block;
 	vertical-align:	top;
 	margin-left: 16px;
 }
